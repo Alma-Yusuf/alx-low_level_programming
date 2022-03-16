@@ -1,10 +1,8 @@
-#include "holberton.h"
-
+#include "main.h"
 /**
-  * main - Test function for positive or negative
-  * Return: 0
-  */
-
+ * main - prints the string "_putchar" from a character array.
+ * Return: 0 on success.
+ */
 int main(void)
 {
 int i;
